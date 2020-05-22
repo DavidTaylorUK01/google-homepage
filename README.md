@@ -1,0 +1,1 @@
+This project is to build a simple and rough google homepage with my very basic HTML, CSS and JS skills.
